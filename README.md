@@ -3,7 +3,7 @@ Network sniffing is the process of capturing and analyzing data packets that tra
 # Pre-requirements
 Python version 3.x
 scapy library
-#Install Required Library
+# Install Required Library
 pip install scapy
 # Run Script
 cd Documents

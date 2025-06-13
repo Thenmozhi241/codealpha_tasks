@@ -6,6 +6,6 @@ scapy library
 # Install Required Library
 pip install scapy
 # Run Script
-cd Documents
+cd Documents /
 sudo python3 sniffer.py
 
